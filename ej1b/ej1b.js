@@ -1,4 +1,4 @@
-let video;
+et video;
 function setup() {
  createCanvas(windowWidth, windowHeight, WEBGL); // Usar WEBGL para objetos 3D
  video = createCapture(VIDEO);
